@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Machine Learning Plant Disease Detection</title>
-</head>
+ </head>
 <body>
     <h1>Machine Learning Plant Disease Detection 🌱🌿</h1>
     <p>This project leverages machine learning algorithms such as <strong>Support Vector Machine (SVM)</strong>, <strong>K-Nearest Neighbors (KNN)</strong>, <strong>Decision Tree</strong>, <strong>Random Forest</strong>, and <strong>Naïve Bayes</strong> to detect plant diseases.</p>
